@@ -1,0 +1,5 @@
+<?xml version="1.0"?>  
+<config>  
+    <!-- <className>com.xiu.test.factory.FileLoggerFactory</className>   -->
+     <className>com.xiu.test.factory2.SpringSkinFactory</className>  
+</config> 
