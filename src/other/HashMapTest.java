@@ -14,7 +14,7 @@ public class HashMapTest {
 	  final int hash(Object k) {
 	        int h = hashSeed;
 	        if (0 != h && k instanceof String) {
-	            return sun.misc.Hashing.stringHash32((String) k);
+//	            return sun.misc.Hashing.stringHash32((String) k);
 	        }
 
 	        h ^= k.hashCode();
