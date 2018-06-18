@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
   <component name="EclipseModuleManager">
-    <libelement value="file://C:/Users/Administrator/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+    <libelement value="file://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
     <src_description expected_position="0">
       <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
     </src_description>
@@ -17,7 +17,7 @@
     <orderEntry type="module-library">
       <library name="javassist-3.20.0-GA.jar">
         <CLASSES>
-          <root url="file://C:/Users/Administrator/.m2/repository/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
+          <root url="file://$MAVEN_REPOSITORY$/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
